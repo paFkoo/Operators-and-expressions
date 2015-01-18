@@ -1,0 +1,6 @@
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit 3\bin\Debug\Extract Bit 3.exe.config
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit 3\obj\Debug\Extract Bit 3.csprojResolveAssemblyReference.cache
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit 3\bin\Debug\Extract Bit 3.exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit 3\bin\Debug\Extract Bit 3.pdb
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit 3\obj\Debug\Extract Bit 3.exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit 3\obj\Debug\Extract Bit 3.pdb

@@ -1,0 +1,5 @@
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Check a Bit at Given Position\bin\Debug\Check a Bit at Given Position.exe.config
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Check a Bit at Given Position\bin\Debug\Check a Bit at Given Position.exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Check a Bit at Given Position\bin\Debug\Check a Bit at Given Position.pdb
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Check a Bit at Given Position\obj\Debug\Check a Bit at Given Position.exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Check a Bit at Given Position\obj\Debug\Check a Bit at Given Position.pdb

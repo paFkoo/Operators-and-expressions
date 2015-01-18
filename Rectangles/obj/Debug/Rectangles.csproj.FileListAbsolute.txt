@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Rectangles\obj\Debug\Rectangles.pdb

@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\OddOrEvenInteger\obj\Debug\OddOrEvenInteger.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\OddOrEvenInteger\obj\Debug\OddOrEvenInteger.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\OddOrEvenInteger\obj\Debug\OddOrEvenInteger.pdb

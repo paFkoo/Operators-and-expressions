@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Divide by 7 and 5\bin\Debug\Divide by 7 and 5.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Divide by 7 and 5\obj\Debug\Divide by 7 and 5.pdb

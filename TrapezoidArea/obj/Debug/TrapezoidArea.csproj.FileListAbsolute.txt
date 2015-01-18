@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

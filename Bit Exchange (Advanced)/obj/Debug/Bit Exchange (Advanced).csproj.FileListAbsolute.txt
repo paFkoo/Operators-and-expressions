@@ -1,0 +1,5 @@
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Bit Exchange (Advanced)\bin\Debug\Bit Exchange (Advanced).exe.config
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Bit Exchange (Advanced)\bin\Debug\Bit Exchange (Advanced).exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Bit Exchange (Advanced)\bin\Debug\Bit Exchange (Advanced).pdb
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Bit Exchange (Advanced)\obj\Debug\Bit Exchange (Advanced).exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Bit Exchange (Advanced)\obj\Debug\Bit Exchange (Advanced).pdb

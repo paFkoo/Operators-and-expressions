@@ -1,0 +1,5 @@
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit from Integer\bin\Debug\Extract Bit from Integer.exe.config
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit from Integer\bin\Debug\Extract Bit from Integer.exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit from Integer\bin\Debug\Extract Bit from Integer.pdb
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit from Integer\obj\Debug\Extract Bit from Integer.exe
+C:\Users\paFKo\Desktop\Telerik\C# part 1\Лекция 3 solution\Extract Bit from Integer\obj\Debug\Extract Bit from Integer.pdb

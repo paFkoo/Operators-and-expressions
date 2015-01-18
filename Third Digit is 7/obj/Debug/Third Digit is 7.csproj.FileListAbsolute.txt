@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Third Digit is 7\bin\Debug\Third Digit is 7.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Third Digit is 7\bin\Debug\Third Digit is 7.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Third Digit is 7\bin\Debug\Third Digit is 7.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Third Digit is 7\obj\Debug\Third Digit is 7.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Third Digit is 7\obj\Debug\Third Digit is 7.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Third Digit is 7\obj\Debug\Third Digit is 7.pdb

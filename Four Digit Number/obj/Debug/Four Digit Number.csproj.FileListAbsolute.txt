@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Four Digit Number\bin\Debug\Four Digit Number.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Four Digit Number\bin\Debug\Four Digit Number.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Four Digit Number\bin\Debug\Four Digit Number.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Four Digit Number\obj\Debug\Four Digit Number.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Four Digit Number\obj\Debug\Four Digit Number.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 3 solution\Four Digit Number\obj\Debug\Four Digit Number.pdb
